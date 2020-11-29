@@ -1,2 +1,2 @@
 # LCTool
-AutoAccept &amp; Aram SKin Boost with LCU in C#
+AutoAccept &amp; Aram Skin Boost and other features with LCU in C#
